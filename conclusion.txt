@@ -1,0 +1,4 @@
+Conclusion
+- Female passengers had a higher survival rate.
+- Higher-class passengers had better survival odds.
+- Age distribution shows a bias towards younger passengers surviving.
