@@ -12,7 +12,7 @@ The dataset used in this analysis is available on Kaggle:
 EDA-Titanic/
 │── README.md               # Project documentation
 │── EDA_Titanic.ipynb       # Jupyter Notebook with EDA
-│── data/                   # Folder for dataset
+│── dataset/                   # Folder for dataset
 │   └── train.csv           # Titanic dataset (Download from Kaggle)
 ```
 
@@ -58,10 +58,6 @@ Essential Python libraries like `pandas`, `numpy`, `matplotlib`, and `seaborn` a
    jupyter notebook EDA_Titanic.ipynb
    ```
 
-## **Next Steps**  
-🔹 Feature engineering for better model performance  
-🔹 Building ML models to predict survival  
 
----  
 ⭐ **If you find this useful, give it a star on GitHub!** ⭐  
 
